@@ -1,0 +1,14 @@
+TIPOS PRIMITIVOS
+Os tipos primitivos são:
+- number
+- string
+- bool
+- dynamic
+- list
+- map
+- set
+
+CRIAÇÃO DE PACOTE
+Criar um projeto no Dart. Sintaxe:
+dart create -t package package_name
+dart create -> cria a estrutura de diretórios com os arquivos necessários
